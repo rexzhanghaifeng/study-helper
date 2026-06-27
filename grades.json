@@ -1,0 +1,20 @@
+[
+  { "id": "g1s", "label": "一年级上", "stage": "primary", "year": 1, "semester": "上", "child": "none" },
+  { "id": "g1x", "label": "一年级下", "stage": "primary", "year": 1, "semester": "下", "child": "none" },
+  { "id": "g2s", "label": "二年级上", "stage": "primary", "year": 2, "semester": "上", "child": "none" },
+  { "id": "g2x", "label": "二年级下", "stage": "primary", "year": 2, "semester": "下", "child": "none" },
+  { "id": "g3s", "label": "三年级上", "stage": "primary", "year": 3, "semester": "上", "child": "younger" },
+  { "id": "g3x", "label": "三年级下", "stage": "primary", "year": 3, "semester": "下", "child": "younger" },
+  { "id": "g4s", "label": "四年级上", "stage": "primary", "year": 4, "semester": "上", "child": "younger" },
+  { "id": "g4x", "label": "四年级下", "stage": "primary", "year": 4, "semester": "下", "child": "younger" },
+  { "id": "g5s", "label": "五年级上", "stage": "primary", "year": 5, "semester": "上", "child": "both" },
+  { "id": "g5x", "label": "五年级下", "stage": "primary", "year": 5, "semester": "下", "child": "both" },
+  { "id": "g6s", "label": "六年级上", "stage": "junior", "year": 6, "semester": "上", "child": "older", "note": "预初" },
+  { "id": "g6x", "label": "六年级下", "stage": "junior", "year": 6, "semester": "下", "child": "older", "note": "预初" },
+  { "id": "g7s", "label": "七年级上", "stage": "junior", "year": 7, "semester": "上", "child": "older" },
+  { "id": "g7x", "label": "七年级下", "stage": "junior", "year": 7, "semester": "下", "child": "older" },
+  { "id": "g8s", "label": "八年级上", "stage": "junior", "year": 8, "semester": "上", "child": "older" },
+  { "id": "g8x", "label": "八年级下", "stage": "junior", "year": 8, "semester": "下", "child": "older" },
+  { "id": "g9s", "label": "九年级上", "stage": "junior", "year": 9, "semester": "上", "child": "older" },
+  { "id": "g9x", "label": "九年级下", "stage": "junior", "year": 9, "semester": "下", "child": "older" }
+]

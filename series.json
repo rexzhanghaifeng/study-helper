@@ -1,0 +1,24 @@
+[
+  {
+    "id": "series-math-g6-fraction",
+    "title": "分数运算完全攻略",
+    "description": "从乘法到除法，涵盖六年级上分数全部知识点，一数老师体系讲解",
+    "subjectId": "math",
+    "gradeId": "g6s",
+    "coverBvid": "BV1GJ411x7h7",
+    "authorName": "一数",
+    "videoIds": ["v001", "v002", "v003"],
+    "sortOrder": 1
+  },
+  {
+    "id": "series-math-g3-fundamental",
+    "title": "三年级数学入门",
+    "description": "三年级上核心计算技能，打好数学基础",
+    "subjectId": "math",
+    "gradeId": "g3s",
+    "coverBvid": "BV1xx4171E7y",
+    "authorName": "数学林老师",
+    "videoIds": ["v004", "v005"],
+    "sortOrder": 1
+  }
+]

@@ -1,0 +1,95 @@
+{
+  "appName": "北羽学堂",
+  "systems": ["五四制"],
+  "stages": [
+    { "id": "primary", "name": "小学", "grades": ["g1s","g1x","g2s","g2x","g3s","g3x","g4s","g4x","g5s","g5x"] },
+    { "id": "junior", "name": "初中", "grades": ["g6s","g6x","g7s","g7x","g8s","g8x","g9s","g9x"] }
+  ],
+  "platforms": {
+    "bilibili": {
+      "name": "B站",
+      "embedTemplate": "https://player.bilibili.com/player.html?bvid={bvid}&page={page}"
+    },
+    "youtube": {
+      "name": "YouTube",
+      "embedTemplate": "https://www.youtube.com/embed/{vid}"
+    }
+  },
+  "pointsRules": {
+    "watchVideo": 10,
+    "quizAllCorrect": 15,
+    "quizPartialCorrect": 5,
+    "searchAndWatch": 3,
+    "starVideo": 2,
+    "dailyTask": 5,
+    "dailyTaskAllDone": 10,
+    "streak3": 10,
+    "streak7": 20,
+    "streak30": 60,
+    "unitComplete": 30,
+    "semesterComplete": 100,
+    "milestone100": 200,
+    "milestone50Correct": 80,
+    "collectSet": 100
+  },
+  "levels": [
+    { "name": "青铜学者", "icon": "🥉", "min": 0, "color": "#cd7f32" },
+    { "name": "白银学者", "icon": "🥈", "min": 100, "color": "#c0c0c0" },
+    { "name": "黄金学者", "icon": "🥇", "min": 300, "color": "#ffd700" },
+    { "name": "铂金学者", "icon": "💎", "min": 600, "color": "#3498db" },
+    { "name": "钻石学者", "icon": "👑", "min": 1000, "color": "#8b5cf6" },
+    { "name": "王者学者", "icon": "🏆", "min": 2000, "color": "#ef4444" }
+  ],
+  "rewards": [
+    { "name": "30分钟游戏时间", "cost": 30, "icon": "🎮", "id": "r1" },
+    { "name": "看一集动画片", "cost": 50, "icon": "📺", "id": "r2" },
+    { "name": "周末选一个活动", "cost": 200, "icon": "🎯", "id": "r3" },
+    { "name": "买一本喜欢的书", "cost": 500, "icon": "📚", "id": "r4" },
+    { "name": "去游乐园一次", "cost": 2000, "icon": "🎢", "id": "r5" }
+  ],
+  "dailyTaskPool": [
+    { "id": "t1", "desc": "看完1个数学视频", "trigger": "daily:math" },
+    { "id": "t2", "desc": "答对3道练习题", "trigger": "quiz:correct:3" },
+    { "id": "t3", "desc": "探索模式发现1个新视频", "trigger": "explore:new" },
+    { "id": "t4", "desc": "学习1个新学科的视频", "trigger": "newSubject" },
+    { "id": "t5", "desc": "看完1个收藏的视频", "trigger": "starred:watch" },
+    { "id": "t6", "desc": "完成1个单元最后一个视频", "trigger": "unitLast" },
+    { "id": "t7", "desc": "学习超过20分钟", "trigger": "duration:20" }
+  ],
+  "children": {
+    "child1": {
+      "id": "child1",
+      "name": "北歌",
+      "nickname": "老大",
+      "gradeLabel": "六年级（预初）",
+      "defaultGradeId": "g6s",
+      "subjects": ["chinese", "math", "english", "morality", "science", "geography", "history"],
+      "textbooks": {
+        "chinese": { "publisher": "人民教育出版社", "edition": "五四学制统编版（部编版）" },
+        "math": { "publisher": "上海教育出版社", "edition": "沪教版（五四学制）" },
+        "english": { "publisher": "上海教育出版社", "edition": "沪教牛津版（五四学制）" },
+        "morality": { "publisher": "人民教育出版社", "edition": "五四学制统编版" },
+        "science": { "publisher": "上海科学技术出版社", "edition": "五四学制" },
+        "geography": { "publisher": "中华地图学社", "edition": "五四学制" },
+        "history": { "publisher": "人民教育出版社", "edition": "五四学制统编版" }
+      }
+    },
+    "child2": {
+      "id": "child2",
+      "name": "刻羽",
+      "nickname": "老二",
+      "gradeLabel": "三年级",
+      "defaultGradeId": "g3s",
+      "subjects": ["chinese", "math", "english", "morality"],
+      "textbooks": {
+        "chinese": { "publisher": "人民教育出版社", "edition": "五四学制统编版（部编版）" },
+        "math": { "publisher": "上海教育出版社", "edition": "沪教版（五四学制）" },
+        "english": { "publisher": "上海教育出版社", "edition": "沪教牛津版（五四学制）" },
+        "morality": { "publisher": "人民教育出版社", "edition": "五四学制统编版" }
+      }
+    }
+  },
+  "githubRepo": "https://raw.githubusercontent.com/zhang/study-helper/main/data",
+  "cacheMinutes": 30,
+  "adminPIN": "2024"
+}

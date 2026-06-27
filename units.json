@@ -1,0 +1,146 @@
+[
+  {
+    "id": "math-g6s-u01",
+    "subjectId": "math",
+    "gradeId": "g6s",
+    "title": "第一单元 分数乘法",
+    "sort": 1,
+    "textbook": "沪教版六年级上",
+    "knowledgePoints": ["分数乘法意义", "分数乘整数", "分数乘分数", "分数混合运算"]
+  },
+  {
+    "id": "math-g6s-u02",
+    "subjectId": "math",
+    "gradeId": "g6s",
+    "title": "第二单元 分数除法",
+    "sort": 2,
+    "textbook": "沪教版六年级上",
+    "knowledgePoints": ["倒数的认识", "分数除法", "分数四则混合运算"]
+  },
+  {
+    "id": "math-g6s-u03",
+    "subjectId": "math",
+    "gradeId": "g6s",
+    "title": "第三单元 比和比例",
+    "sort": 3,
+    "textbook": "沪教版六年级上",
+    "knowledgePoints": ["比的意义", "比的基本性质", "比例", "按比分配"]
+  },
+  {
+    "id": "math-g6s-u04",
+    "subjectId": "math",
+    "gradeId": "g6s",
+    "title": "第四单元 圆",
+    "sort": 4,
+    "textbook": "沪教版六年级上",
+    "knowledgePoints": ["圆的认识", "圆的周长", "圆的面积", "扇形"]
+  },
+  {
+    "id": "math-g6s-u05",
+    "subjectId": "math",
+    "gradeId": "g6s",
+    "title": "第五单元 百分数",
+    "sort": 5,
+    "textbook": "沪教版六年级上",
+    "knowledgePoints": ["百分数的意义", "百分数与分数小数互化", "百分数应用题"]
+  },
+  {
+    "id": "math-g3s-u01",
+    "subjectId": "math",
+    "gradeId": "g3s",
+    "title": "第一单元 时、分、秒",
+    "sort": 1,
+    "textbook": "沪教版三年级上",
+    "knowledgePoints": ["认识秒", "时间单位换算", "时间计算"]
+  },
+  {
+    "id": "math-g3s-u02",
+    "subjectId": "math",
+    "gradeId": "g3s",
+    "title": "第二单元 万以内的加法和减法（一）",
+    "sort": 2,
+    "textbook": "沪教版三年级上",
+    "knowledgePoints": ["口算两位数加减", "笔算三位数加减", "估算"]
+  },
+  {
+    "id": "math-g3s-u03",
+    "subjectId": "math",
+    "gradeId": "g3s",
+    "title": "第三单元 测量",
+    "sort": 3,
+    "textbook": "沪教版三年级上",
+    "knowledgePoints": ["毫米和分米", "千米", "吨的认识"]
+  },
+  {
+    "id": "math-g3s-u04",
+    "subjectId": "math",
+    "gradeId": "g3s",
+    "title": "第四单元 万以内的加法和减法（二）",
+    "sort": 4,
+    "textbook": "沪教版三年级上",
+    "knowledgePoints": ["三位数加三位数", "三位数减三位数", "加减法验算"]
+  },
+  {
+    "id": "math-g3s-u05",
+    "subjectId": "math",
+    "gradeId": "g3s",
+    "title": "第五单元 倍的认识",
+    "sort": 5,
+    "textbook": "沪教版三年级上",
+    "knowledgePoints": ["倍的概念", "求一个数是另一个数的几倍", "求一个数的几倍是多少"]
+  },
+  {
+    "id": "chinese-g6s-u01",
+    "subjectId": "chinese",
+    "gradeId": "g6s",
+    "title": "第一单元 走进大自然",
+    "sort": 1,
+    "textbook": "统编版六年级上",
+    "knowledgePoints": ["草原", "古诗三首", "花之歌"]
+  },
+  {
+    "id": "chinese-g6s-u02",
+    "subjectId": "chinese",
+    "gradeId": "g6s",
+    "title": "第二单元 革命岁月",
+    "sort": 2,
+    "textbook": "统编版六年级上",
+    "knowledgePoints": ["七律·长征", "狼牙山五壮士", "开国大典"]
+  },
+  {
+    "id": "chinese-g3s-u01",
+    "subjectId": "chinese",
+    "gradeId": "g3s",
+    "title": "第一单元 学校生活",
+    "sort": 1,
+    "textbook": "统编版三年级上",
+    "knowledgePoints": ["大青树下的小学", "花的学校", "不懂就要问"]
+  },
+  {
+    "id": "english-g6s-u01",
+    "subjectId": "english",
+    "gradeId": "g6s",
+    "title": "Module 1 Family and friends",
+    "sort": 1,
+    "textbook": "牛津上海版六年级上",
+    "knowledgePoints": ["Family members", "Friends", "Personal information"]
+  },
+  {
+    "id": "science-g6s-u01",
+    "subjectId": "science",
+    "gradeId": "g6s",
+    "title": "第一单元 走进科学",
+    "sort": 1,
+    "textbook": "沪教版六年级上",
+    "knowledgePoints": ["什么是科学", "科学探究的方法", "实验室安全"]
+  },
+  {
+    "id": "geography-g6s-u01",
+    "subjectId": "geography",
+    "gradeId": "g6s",
+    "title": "第一单元 地球和地图",
+    "sort": 1,
+    "textbook": "沪教版六年级上",
+    "knowledgePoints": ["地球的形状和大小", "经纬网", "地图三要素"]
+  }
+]
