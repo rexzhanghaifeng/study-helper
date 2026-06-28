@@ -207,19 +207,6 @@
     ]
   },
   {
-    "id": "science-g6s-u01",
-    "subjectId": "science",
-    "gradeId": "g6s",
-    "title": "第一单元 走进科学",
-    "sort": 1,
-    "textbook": "沪教版六年级上",
-    "knowledgePoints": [
-      "什么是科学",
-      "科学探究的方法",
-      "实验室安全"
-    ]
-  },
-  {
     "id": "geography-g6s-u01",
     "subjectId": "geography",
     "gradeId": "g6s",
@@ -230,19 +217,6 @@
       "地球的形状和大小",
       "经纬网",
       "地图三要素"
-    ]
-  },
-  {
-    "id": "history-g6s-u01",
-    "subjectId": "history",
-    "gradeId": "g6s",
-    "title": "第一单元 中国古代史开端",
-    "sort": 1,
-    "textbook": "统编版六年级上",
-    "knowledgePoints": [
-      "史前时期",
-      "夏商周",
-      "中华文明起源"
     ]
   },
   {
@@ -311,114 +285,6 @@
       "周期问题",
       "流程图",
       "搭配"
-    ]
-  },
-  {
-    "id": "chinese-g3s-u01",
-    "subjectId": "chinese",
-    "gradeId": "g3s",
-    "title": "第一单元 学校生活",
-    "sort": 1,
-    "textbook": "部编版三年级上",
-    "knowledgePoints": [
-      "大青树下的小学",
-      "花的学校",
-      "不懂就要问"
-    ]
-  },
-  {
-    "id": "chinese-g3s-u02",
-    "subjectId": "chinese",
-    "gradeId": "g3s",
-    "title": "第二单元 金秋时节",
-    "sort": 2,
-    "textbook": "部编版三年级上",
-    "knowledgePoints": [
-      "古诗三首",
-      "山行",
-      "赠刘景文",
-      "夜书所见",
-      "铺满金色巴掌的水泥道"
-    ]
-  },
-  {
-    "id": "chinese-g3s-u03",
-    "subjectId": "chinese",
-    "gradeId": "g3s",
-    "title": "第三单元 童话世界",
-    "sort": 3,
-    "textbook": "部编版三年级上",
-    "knowledgePoints": [
-      "卖火柴的小女孩",
-      "在牛肚子里旅行",
-      "那一定会很好"
-    ]
-  },
-  {
-    "id": "chinese-g3s-u04",
-    "subjectId": "chinese",
-    "gradeId": "g3s",
-    "title": "第四单元 预测与猜想",
-    "sort": 4,
-    "textbook": "部编版三年级上",
-    "knowledgePoints": [
-      "总也倒不了的老屋",
-      "胡萝卜先生的长胡子",
-      "小狗学叫"
-    ]
-  },
-  {
-    "id": "chinese-g3s-u05",
-    "subjectId": "chinese",
-    "gradeId": "g3s",
-    "title": "第五单元 观察与发现",
-    "sort": 5,
-    "textbook": "部编版三年级上",
-    "knowledgePoints": [
-      "搭船的鸟",
-      "金色的草地"
-    ]
-  },
-  {
-    "id": "chinese-g3s-u06",
-    "subjectId": "chinese",
-    "gradeId": "g3s",
-    "title": "第六单元 祖国山河",
-    "sort": 6,
-    "textbook": "部编版三年级上",
-    "knowledgePoints": [
-      "古诗三首",
-      "望天门山",
-      "饮湖上初晴后雨",
-      "望洞庭",
-      "富饶的西沙群岛",
-      "海滨小城"
-    ]
-  },
-  {
-    "id": "chinese-g3s-u07",
-    "subjectId": "chinese",
-    "gradeId": "g3s",
-    "title": "第七单元 大自然的礼物",
-    "sort": 7,
-    "textbook": "部编版三年级上",
-    "knowledgePoints": [
-      "大自然的声音",
-      "读不完的大书",
-      "父亲树林和鸟"
-    ]
-  },
-  {
-    "id": "chinese-g3s-u08",
-    "subjectId": "chinese",
-    "gradeId": "g3s",
-    "title": "第八单元 美好品质",
-    "sort": 8,
-    "textbook": "部编版三年级上",
-    "knowledgePoints": [
-      "文言文司马光",
-      "灰雀",
-      "手术台就是阵地"
     ]
   },
   {
@@ -564,19 +430,6 @@
     "knowledgePoints": [
       "植物生长",
       "It grows..."
-    ]
-  },
-  {
-    "id": "science-g3s-u01",
-    "subjectId": "science",
-    "gradeId": "g3s",
-    "title": "第一单元 走进科学",
-    "sort": 1,
-    "textbook": "沪教版三年级上",
-    "knowledgePoints": [
-      "观察与发现",
-      "科学方法",
-      "实验安全"
     ]
   }
 ]

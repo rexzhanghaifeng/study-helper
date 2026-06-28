@@ -133,32 +133,5 @@
       "v025"
     ],
     "sortOrder": 8
-  },
-  {
-    "id": "series-science-g6",
-    "title": "六年级科学入门",
-    "description": "科学探究方法和实验安全",
-    "subjectId": "science",
-    "gradeId": "g6s",
-    "coverBvid": "",
-    "authorName": "上海空中课堂",
-    "videoIds": [
-      "v026"
-    ],
-    "sortOrder": 9
-  },
-  {
-    "id": "series-history-g6",
-    "title": "中国古代史启蒙",
-    "description": "史前时期到夏商周",
-    "subjectId": "history",
-    "gradeId": "g6s",
-    "coverBvid": "",
-    "authorName": "混知",
-    "videoIds": [
-      "v023",
-      "v024"
-    ],
-    "sortOrder": 10
   }
 ]
