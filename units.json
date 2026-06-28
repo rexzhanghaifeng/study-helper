@@ -3,91 +3,60 @@
     "id": "math-g6s-u01",
     "subjectId": "math",
     "gradeId": "g6s",
-    "title": "第一单元 分数乘法",
+    "title": "第一章 数的整除",
     "sort": 1,
     "textbook": "沪教版六年级上",
-    "knowledgePoints": ["分数乘法意义", "分数乘整数", "分数乘分数", "分数混合运算"]
+    "knowledgePoints": [
+      "整数与整除",
+      "因数与倍数",
+      "素数合数",
+      "分解素因数",
+      "公因数公倍数"
+    ]
   },
   {
     "id": "math-g6s-u02",
     "subjectId": "math",
     "gradeId": "g6s",
-    "title": "第二单元 分数除法",
+    "title": "第二章 分数",
     "sort": 2,
     "textbook": "沪教版六年级上",
-    "knowledgePoints": ["倒数的认识", "分数除法", "分数四则混合运算"]
+    "knowledgePoints": [
+      "分数意义与性质",
+      "分数比较",
+      "分数加减",
+      "分数乘除",
+      "混合运算"
+    ]
   },
   {
     "id": "math-g6s-u03",
     "subjectId": "math",
     "gradeId": "g6s",
-    "title": "第三单元 比和比例",
+    "title": "第三章 比和比例",
     "sort": 3,
     "textbook": "沪教版六年级上",
-    "knowledgePoints": ["比的意义", "比的基本性质", "比例", "按比分配"]
+    "knowledgePoints": [
+      "比的意义与性质",
+      "比例",
+      "百分比",
+      "按比分配"
+    ]
   },
   {
     "id": "math-g6s-u04",
     "subjectId": "math",
     "gradeId": "g6s",
-    "title": "第四单元 圆",
+    "title": "第四章 圆和扇形",
     "sort": 4,
     "textbook": "沪教版六年级上",
-    "knowledgePoints": ["圆的认识", "圆的周长", "圆的面积", "扇形"]
-  },
-  {
-    "id": "math-g6s-u05",
-    "subjectId": "math",
-    "gradeId": "g6s",
-    "title": "第五单元 百分数",
-    "sort": 5,
-    "textbook": "沪教版六年级上",
-    "knowledgePoints": ["百分数的意义", "百分数与分数小数互化", "百分数应用题"]
-  },
-  {
-    "id": "math-g3s-u01",
-    "subjectId": "math",
-    "gradeId": "g3s",
-    "title": "第一单元 时、分、秒",
-    "sort": 1,
-    "textbook": "沪教版三年级上",
-    "knowledgePoints": ["认识秒", "时间单位换算", "时间计算"]
-  },
-  {
-    "id": "math-g3s-u02",
-    "subjectId": "math",
-    "gradeId": "g3s",
-    "title": "第二单元 万以内的加法和减法（一）",
-    "sort": 2,
-    "textbook": "沪教版三年级上",
-    "knowledgePoints": ["口算两位数加减", "笔算三位数加减", "估算"]
-  },
-  {
-    "id": "math-g3s-u03",
-    "subjectId": "math",
-    "gradeId": "g3s",
-    "title": "第三单元 测量",
-    "sort": 3,
-    "textbook": "沪教版三年级上",
-    "knowledgePoints": ["毫米和分米", "千米", "吨的认识"]
-  },
-  {
-    "id": "math-g3s-u04",
-    "subjectId": "math",
-    "gradeId": "g3s",
-    "title": "第四单元 万以内的加法和减法（二）",
-    "sort": 4,
-    "textbook": "沪教版三年级上",
-    "knowledgePoints": ["三位数加三位数", "三位数减三位数", "加减法验算"]
-  },
-  {
-    "id": "math-g3s-u05",
-    "subjectId": "math",
-    "gradeId": "g3s",
-    "title": "第五单元 倍的认识",
-    "sort": 5,
-    "textbook": "沪教版三年级上",
-    "knowledgePoints": ["倍的概念", "求一个数是另一个数的几倍", "求一个数的几倍是多少"]
+    "knowledgePoints": [
+      "圆的认识",
+      "圆的周长",
+      "弧长",
+      "圆的面积",
+      "扇形面积"
+    ]
   },
   {
     "id": "chinese-g6s-u01",
@@ -95,8 +64,13 @@
     "gradeId": "g6s",
     "title": "第一单元 走进大自然",
     "sort": 1,
-    "textbook": "统编版六年级上",
-    "knowledgePoints": ["草原", "古诗三首", "花之歌"]
+    "textbook": "部编版六年级上",
+    "knowledgePoints": [
+      "草原",
+      "丁香结",
+      "古诗三首",
+      "花之歌"
+    ]
   },
   {
     "id": "chinese-g6s-u02",
@@ -104,17 +78,94 @@
     "gradeId": "g6s",
     "title": "第二单元 革命岁月",
     "sort": 2,
-    "textbook": "统编版六年级上",
-    "knowledgePoints": ["七律·长征", "狼牙山五壮士", "开国大典"]
+    "textbook": "部编版六年级上",
+    "knowledgePoints": [
+      "七律·长征",
+      "狼牙山五壮士",
+      "开国大典",
+      "灯光"
+    ]
   },
   {
-    "id": "chinese-g3s-u01",
+    "id": "chinese-g6s-u03",
     "subjectId": "chinese",
-    "gradeId": "g3s",
-    "title": "第一单元 学校生活",
-    "sort": 1,
-    "textbook": "统编版三年级上",
-    "knowledgePoints": ["大青树下的小学", "花的学校", "不懂就要问"]
+    "gradeId": "g6s",
+    "title": "第三单元 有目的地阅读",
+    "sort": 3,
+    "textbook": "部编版六年级上",
+    "knowledgePoints": [
+      "竹节人",
+      "宇宙生命之谜",
+      "故宫博物院"
+    ]
+  },
+  {
+    "id": "chinese-g6s-u04",
+    "subjectId": "chinese",
+    "gradeId": "g6s",
+    "title": "第四单元 小说单元",
+    "sort": 4,
+    "textbook": "部编版六年级上",
+    "knowledgePoints": [
+      "桥",
+      "穷人",
+      "金色的鱼钩"
+    ]
+  },
+  {
+    "id": "chinese-g6s-u05",
+    "subjectId": "chinese",
+    "gradeId": "g6s",
+    "title": "第五单元 围绕中心意思写",
+    "sort": 5,
+    "textbook": "部编版六年级上",
+    "knowledgePoints": [
+      "夏天里的成长",
+      "盼",
+      "习作例文"
+    ]
+  },
+  {
+    "id": "chinese-g6s-u06",
+    "subjectId": "chinese",
+    "gradeId": "g6s",
+    "title": "第六单元 保护环境",
+    "sort": 6,
+    "textbook": "部编版六年级上",
+    "knowledgePoints": [
+      "只有一个地球",
+      "三黑和土地",
+      "青山不老"
+    ]
+  },
+  {
+    "id": "chinese-g6s-u07",
+    "subjectId": "chinese",
+    "gradeId": "g6s",
+    "title": "第七单元 艺术之美",
+    "sort": 7,
+    "textbook": "部编版六年级上",
+    "knowledgePoints": [
+      "文言文二则",
+      "伯牙鼓琴",
+      "书戴嵩画牛",
+      "月光曲",
+      "京剧趣谈"
+    ]
+  },
+  {
+    "id": "chinese-g6s-u08",
+    "subjectId": "chinese",
+    "gradeId": "g6s",
+    "title": "第八单元 走近鲁迅",
+    "sort": 8,
+    "textbook": "部编版六年级上",
+    "knowledgePoints": [
+      "少年闰土",
+      "好的故事",
+      "我的伯父鲁迅先生",
+      "有的人"
+    ]
   },
   {
     "id": "english-g6s-u01",
@@ -123,7 +174,37 @@
     "title": "Module 1 Family and friends",
     "sort": 1,
     "textbook": "牛津上海版六年级上",
-    "knowledgePoints": ["Family members", "Friends", "Personal information"]
+    "knowledgePoints": [
+      "Family members",
+      "Friends",
+      "Personal information"
+    ]
+  },
+  {
+    "id": "english-g6s-u02",
+    "subjectId": "english",
+    "gradeId": "g6s",
+    "title": "Module 2 Places and activities",
+    "sort": 2,
+    "textbook": "牛津上海版六年级上",
+    "knowledgePoints": [
+      "Our neighbours",
+      "Animals in danger",
+      "Going to school"
+    ]
+  },
+  {
+    "id": "english-g6s-u03",
+    "subjectId": "english",
+    "gradeId": "g6s",
+    "title": "Module 3 The world around us",
+    "sort": 3,
+    "textbook": "牛津上海版六年级上",
+    "knowledgePoints": [
+      "Seeing a film",
+      "Visiting museums",
+      "Great cities"
+    ]
   },
   {
     "id": "science-g6s-u01",
@@ -132,7 +213,11 @@
     "title": "第一单元 走进科学",
     "sort": 1,
     "textbook": "沪教版六年级上",
-    "knowledgePoints": ["什么是科学", "科学探究的方法", "实验室安全"]
+    "knowledgePoints": [
+      "什么是科学",
+      "科学探究的方法",
+      "实验室安全"
+    ]
   },
   {
     "id": "geography-g6s-u01",
@@ -141,6 +226,357 @@
     "title": "第一单元 地球和地图",
     "sort": 1,
     "textbook": "沪教版六年级上",
-    "knowledgePoints": ["地球的形状和大小", "经纬网", "地图三要素"]
+    "knowledgePoints": [
+      "地球的形状和大小",
+      "经纬网",
+      "地图三要素"
+    ]
+  },
+  {
+    "id": "history-g6s-u01",
+    "subjectId": "history",
+    "gradeId": "g6s",
+    "title": "第一单元 中国古代史开端",
+    "sort": 1,
+    "textbook": "统编版六年级上",
+    "knowledgePoints": [
+      "史前时期",
+      "夏商周",
+      "中华文明起源"
+    ]
+  },
+  {
+    "id": "math-g3s-u01",
+    "subjectId": "math",
+    "gradeId": "g3s",
+    "title": "第一单元 复习与提高",
+    "sort": 1,
+    "textbook": "沪教版三年级上",
+    "knowledgePoints": [
+      "一位数乘除法",
+      "两步运算",
+      "巧算"
+    ]
+  },
+  {
+    "id": "math-g3s-u02",
+    "subjectId": "math",
+    "gradeId": "g3s",
+    "title": "第二单元 用一位数乘",
+    "sort": 2,
+    "textbook": "沪教版三年级上",
+    "knowledgePoints": [
+      "整十数乘一位数",
+      "两位数乘一位数",
+      "三位数乘一位数",
+      "竖式计算"
+    ]
+  },
+  {
+    "id": "math-g3s-u03",
+    "subjectId": "math",
+    "gradeId": "g3s",
+    "title": "第三单元 时间的初步认识(三)",
+    "sort": 3,
+    "textbook": "沪教版三年级上",
+    "knowledgePoints": [
+      "年月日",
+      "平年闰年",
+      "24时记时法"
+    ]
+  },
+  {
+    "id": "math-g3s-u04",
+    "subjectId": "math",
+    "gradeId": "g3s",
+    "title": "第四单元 几何小实践",
+    "sort": 4,
+    "textbook": "沪教版三年级上",
+    "knowledgePoints": [
+      "千米的认识",
+      "面积单位",
+      "轴对称图形",
+      "三角形分类"
+    ]
+  },
+  {
+    "id": "math-g3s-u05",
+    "subjectId": "math",
+    "gradeId": "g3s",
+    "title": "第五单元 数学广场",
+    "sort": 5,
+    "textbook": "沪教版三年级上",
+    "knowledgePoints": [
+      "植树问题",
+      "周期问题",
+      "流程图",
+      "搭配"
+    ]
+  },
+  {
+    "id": "chinese-g3s-u01",
+    "subjectId": "chinese",
+    "gradeId": "g3s",
+    "title": "第一单元 学校生活",
+    "sort": 1,
+    "textbook": "部编版三年级上",
+    "knowledgePoints": [
+      "大青树下的小学",
+      "花的学校",
+      "不懂就要问"
+    ]
+  },
+  {
+    "id": "chinese-g3s-u02",
+    "subjectId": "chinese",
+    "gradeId": "g3s",
+    "title": "第二单元 金秋时节",
+    "sort": 2,
+    "textbook": "部编版三年级上",
+    "knowledgePoints": [
+      "古诗三首",
+      "山行",
+      "赠刘景文",
+      "夜书所见",
+      "铺满金色巴掌的水泥道"
+    ]
+  },
+  {
+    "id": "chinese-g3s-u03",
+    "subjectId": "chinese",
+    "gradeId": "g3s",
+    "title": "第三单元 童话世界",
+    "sort": 3,
+    "textbook": "部编版三年级上",
+    "knowledgePoints": [
+      "卖火柴的小女孩",
+      "在牛肚子里旅行",
+      "那一定会很好"
+    ]
+  },
+  {
+    "id": "chinese-g3s-u04",
+    "subjectId": "chinese",
+    "gradeId": "g3s",
+    "title": "第四单元 预测与猜想",
+    "sort": 4,
+    "textbook": "部编版三年级上",
+    "knowledgePoints": [
+      "总也倒不了的老屋",
+      "胡萝卜先生的长胡子",
+      "小狗学叫"
+    ]
+  },
+  {
+    "id": "chinese-g3s-u05",
+    "subjectId": "chinese",
+    "gradeId": "g3s",
+    "title": "第五单元 观察与发现",
+    "sort": 5,
+    "textbook": "部编版三年级上",
+    "knowledgePoints": [
+      "搭船的鸟",
+      "金色的草地"
+    ]
+  },
+  {
+    "id": "chinese-g3s-u06",
+    "subjectId": "chinese",
+    "gradeId": "g3s",
+    "title": "第六单元 祖国山河",
+    "sort": 6,
+    "textbook": "部编版三年级上",
+    "knowledgePoints": [
+      "古诗三首",
+      "望天门山",
+      "饮湖上初晴后雨",
+      "望洞庭",
+      "富饶的西沙群岛",
+      "海滨小城"
+    ]
+  },
+  {
+    "id": "chinese-g3s-u07",
+    "subjectId": "chinese",
+    "gradeId": "g3s",
+    "title": "第七单元 大自然的礼物",
+    "sort": 7,
+    "textbook": "部编版三年级上",
+    "knowledgePoints": [
+      "大自然的声音",
+      "读不完的大书",
+      "父亲树林和鸟"
+    ]
+  },
+  {
+    "id": "chinese-g3s-u08",
+    "subjectId": "chinese",
+    "gradeId": "g3s",
+    "title": "第八单元 美好品质",
+    "sort": 8,
+    "textbook": "部编版三年级上",
+    "knowledgePoints": [
+      "文言文司马光",
+      "灰雀",
+      "手术台就是阵地"
+    ]
+  },
+  {
+    "id": "english-g3s-u01",
+    "subjectId": "english",
+    "gradeId": "g3s",
+    "title": "Unit 1 Hello!",
+    "sort": 1,
+    "textbook": "沪教牛津版三年级上",
+    "knowledgePoints": [
+      "打招呼",
+      "自我介绍",
+      "How are you?"
+    ]
+  },
+  {
+    "id": "english-g3s-u02",
+    "subjectId": "english",
+    "gradeId": "g3s",
+    "title": "Unit 2 What's your name?",
+    "sort": 2,
+    "textbook": "沪教牛津版三年级上",
+    "knowledgePoints": [
+      "询问名字",
+      "My name is..."
+    ]
+  },
+  {
+    "id": "english-g3s-u03",
+    "subjectId": "english",
+    "gradeId": "g3s",
+    "title": "Unit 3 How old are you?",
+    "sort": 3,
+    "textbook": "沪教牛津版三年级上",
+    "knowledgePoints": [
+      "年龄问答",
+      "数字1-10"
+    ]
+  },
+  {
+    "id": "english-g3s-u04",
+    "subjectId": "english",
+    "gradeId": "g3s",
+    "title": "Unit 4 My friends",
+    "sort": 4,
+    "textbook": "沪教牛津版三年级上",
+    "knowledgePoints": [
+      "描述朋友",
+      "He/She is..."
+    ]
+  },
+  {
+    "id": "english-g3s-u05",
+    "subjectId": "english",
+    "gradeId": "g3s",
+    "title": "Unit 5 My family",
+    "sort": 5,
+    "textbook": "沪教牛津版三年级上",
+    "knowledgePoints": [
+      "家庭成员",
+      "Who is he/she?"
+    ]
+  },
+  {
+    "id": "english-g3s-u06",
+    "subjectId": "english",
+    "gradeId": "g3s",
+    "title": "Unit 6 About me",
+    "sort": 6,
+    "textbook": "沪教牛津版三年级上",
+    "knowledgePoints": [
+      "身体部位",
+      "I have..."
+    ]
+  },
+  {
+    "id": "english-g3s-u07",
+    "subjectId": "english",
+    "gradeId": "g3s",
+    "title": "Unit 7 My school",
+    "sort": 7,
+    "textbook": "沪教牛津版三年级上",
+    "knowledgePoints": [
+      "学校场所",
+      "This is..."
+    ]
+  },
+  {
+    "id": "english-g3s-u08",
+    "subjectId": "english",
+    "gradeId": "g3s",
+    "title": "Unit 8 Shopping",
+    "sort": 8,
+    "textbook": "沪教牛津版三年级上",
+    "knowledgePoints": [
+      "购物英语",
+      "How much?"
+    ]
+  },
+  {
+    "id": "english-g3s-u09",
+    "subjectId": "english",
+    "gradeId": "g3s",
+    "title": "Unit 9 In the park",
+    "sort": 9,
+    "textbook": "沪教牛津版三年级上",
+    "knowledgePoints": [
+      "公园场景",
+      "What can you see?"
+    ]
+  },
+  {
+    "id": "english-g3s-u10",
+    "subjectId": "english",
+    "gradeId": "g3s",
+    "title": "Unit 10 Insects",
+    "sort": 10,
+    "textbook": "沪教牛津版三年级上",
+    "knowledgePoints": [
+      "昆虫词汇",
+      "It has..."
+    ]
+  },
+  {
+    "id": "english-g3s-u11",
+    "subjectId": "english",
+    "gradeId": "g3s",
+    "title": "Unit 11 On the farm",
+    "sort": 11,
+    "textbook": "沪教牛津版三年级上",
+    "knowledgePoints": [
+      "农场动物",
+      "Old MacDonald"
+    ]
+  },
+  {
+    "id": "english-g3s-u12",
+    "subjectId": "english",
+    "gradeId": "g3s",
+    "title": "Unit 12 Plants",
+    "sort": 12,
+    "textbook": "沪教牛津版三年级上",
+    "knowledgePoints": [
+      "植物生长",
+      "It grows..."
+    ]
+  },
+  {
+    "id": "science-g3s-u01",
+    "subjectId": "science",
+    "gradeId": "g3s",
+    "title": "第一单元 走进科学",
+    "sort": 1,
+    "textbook": "沪教版三年级上",
+    "knowledgePoints": [
+      "观察与发现",
+      "科学方法",
+      "实验安全"
+    ]
   }
 ]

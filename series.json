@@ -2,23 +2,163 @@
   {
     "id": "series-math-g6-fraction",
     "title": "分数运算完全攻略",
-    "description": "从乘法到除法，涵盖六年级上分数全部知识点，一数老师体系讲解",
+    "description": "从乘法到除法，分数运算一次搞定",
     "subjectId": "math",
     "gradeId": "g6s",
     "coverBvid": "BV1GJ411x7h7",
     "authorName": "一数",
-    "videoIds": ["v001", "v002", "v003"],
+    "videoIds": [
+      "v001",
+      "v002",
+      "v003"
+    ],
     "sortOrder": 1
   },
   {
     "id": "series-math-g3-fundamental",
-    "title": "三年级数学入门",
-    "description": "三年级上核心计算技能，打好数学基础",
+    "title": "三上数学基础精讲",
+    "description": "沪教版三年级上册数学核心知识点",
     "subjectId": "math",
     "gradeId": "g3s",
+    "coverBvid": "BV1nXvWeEEWr",
+    "authorName": "满分知识课堂",
+    "videoIds": [
+      "v004",
+      "v005"
+    ],
+    "sortOrder": 2
+  },
+  {
+    "id": "series-math-g6-hujiao",
+    "title": "沪教版六上数学同步精讲",
+    "description": "2026沪教上海版六年级上册课本同步101集",
+    "subjectId": "math",
+    "gradeId": "g6s",
+    "coverBvid": "BV1ek7h6dEm9",
+    "authorName": "满分研习社",
+    "videoIds": [
+      "v007",
+      "v008",
+      "v009",
+      "v010"
+    ],
+    "sortOrder": 3
+  },
+  {
+    "id": "series-chinese-g6-tongbian",
+    "title": "部编版六上语文同步精讲",
+    "description": "人教版六年级上册语文8单元70集完整精讲",
+    "subjectId": "chinese",
+    "gradeId": "g6s",
+    "coverBvid": "BV1SA88zZETq",
+    "authorName": "卓越自学",
+    "videoIds": [
+      "v011",
+      "v012",
+      "v013",
+      "v014",
+      "v015",
+      "v016",
+      "v017",
+      "v018"
+    ],
+    "sortOrder": 4
+  },
+  {
+    "id": "series-math-g3-animation",
+    "title": "沪教版三上数学趣味动画",
+    "description": "179集趣味动画学沪教版三年级数学上册",
+    "subjectId": "math",
+    "gradeId": "g3s",
+    "coverBvid": "BV1nXvWeEEWr",
+    "authorName": "满分知识课堂",
+    "videoIds": [
+      "v027",
+      "v028",
+      "v029",
+      "v030",
+      "v031"
+    ],
+    "sortOrder": 5
+  },
+  {
+    "id": "series-english-g3-oxford",
+    "title": "沪教牛津三上英语同步",
+    "description": "全98集上海牛津沪教版三年级英语上下册同步",
+    "subjectId": "english",
+    "gradeId": "g3s",
+    "coverBvid": "BV1FypJzeE28",
+    "authorName": "小初高知识课堂",
+    "videoIds": [
+      "v032",
+      "v033",
+      "v034",
+      "v035",
+      "v036",
+      "v037",
+      "v038",
+      "v039",
+      "v040",
+      "v041",
+      "v042",
+      "v043"
+    ],
+    "sortOrder": 6
+  },
+  {
+    "id": "series-english-g6-oxford",
+    "title": "沪教牛津六上英语同步",
+    "description": "全154集上海牛津沪教版六年级英语同步课堂",
+    "subjectId": "english",
+    "gradeId": "g6s",
+    "coverBvid": "BV1VoCiBAEWN",
+    "authorName": "小初高知识课堂",
+    "videoIds": [
+      "v019",
+      "v020",
+      "v021"
+    ],
+    "sortOrder": 7
+  },
+  {
+    "id": "series-geography-g6",
+    "title": "六年级地理入门",
+    "description": "地球和地图基础知识",
+    "subjectId": "geography",
+    "gradeId": "g6s",
     "coverBvid": "BV1xx4171E7y",
-    "authorName": "数学林老师",
-    "videoIds": ["v004", "v005"],
-    "sortOrder": 1
+    "authorName": "地理大师",
+    "videoIds": [
+      "v006",
+      "v025"
+    ],
+    "sortOrder": 8
+  },
+  {
+    "id": "series-science-g6",
+    "title": "六年级科学入门",
+    "description": "科学探究方法和实验安全",
+    "subjectId": "science",
+    "gradeId": "g6s",
+    "coverBvid": "",
+    "authorName": "上海空中课堂",
+    "videoIds": [
+      "v026"
+    ],
+    "sortOrder": 9
+  },
+  {
+    "id": "series-history-g6",
+    "title": "中国古代史启蒙",
+    "description": "史前时期到夏商周",
+    "subjectId": "history",
+    "gradeId": "g6s",
+    "coverBvid": "",
+    "authorName": "混知",
+    "videoIds": [
+      "v023",
+      "v024"
+    ],
+    "sortOrder": 10
   }
 ]
