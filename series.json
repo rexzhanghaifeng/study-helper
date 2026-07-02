@@ -1,34 +1,5 @@
 [
   {
-    "id": "series-math-g6-fraction",
-    "title": "分数运算完全攻略",
-    "description": "从乘法到除法，分数运算一次搞定",
-    "subjectId": "math",
-    "gradeId": "g6s",
-    "coverBvid": "BV1GJ411x7h7",
-    "authorName": "一数",
-    "videoIds": [
-      "v001",
-      "v002",
-      "v003"
-    ],
-    "sortOrder": 1
-  },
-  {
-    "id": "series-math-g3-fundamental",
-    "title": "三上数学基础精讲",
-    "description": "沪教版三年级上册数学核心知识点",
-    "subjectId": "math",
-    "gradeId": "g3s",
-    "coverBvid": "BV1nXvWeEEWr",
-    "authorName": "满分知识课堂",
-    "videoIds": [
-      "v004",
-      "v005"
-    ],
-    "sortOrder": 2
-  },
-  {
     "id": "series-math-g6-hujiao",
     "title": "沪教版六上数学同步精讲",
     "description": "2026沪教上海版六年级上册课本同步101集",
@@ -121,20 +92,6 @@
     "sortOrder": 7
   },
   {
-    "id": "series-geography-g6",
-    "title": "六年级地理入门",
-    "description": "地球和地图基础知识",
-    "subjectId": "geography",
-    "gradeId": "g6s",
-    "coverBvid": "BV1xx4171E7y",
-    "authorName": "地理大师",
-    "videoIds": [
-      "v006",
-      "v025"
-    ],
-    "sortOrder": 8
-  },
-  {
     "id": "series-english-yingyutu-keyu",
     "title": "英语兔语法·刻羽版",
     "description": "英语兔B站语法系列，系统讲解英语语法全体系",
@@ -143,10 +100,76 @@
     "coverBvid": "BV1XY411J7aG",
     "authorName": "英语兔",
     "videoIds": [
-      "v638","v639","v640","v641","v642","v643","v644","v645","v646","v647",
-      "v648","v649","v650","v651","v652","v653","v654","v655","v656","v657",
-      "v658","v659","v660","v661","v662","v663","v664","v665"
+      "v638",
+      "v639",
+      "v640",
+      "v641",
+      "v642",
+      "v643",
+      "v644",
+      "v645",
+      "v646",
+      "v647",
+      "v648",
+      "v649",
+      "v650",
+      "v651",
+      "v652",
+      "v653",
+      "v654",
+      "v655",
+      "v656",
+      "v657",
+      "v658",
+      "v659",
+      "v660",
+      "v661",
+      "v662",
+      "v663",
+      "v664",
+      "v665"
     ],
     "sortOrder": 9
+  },
+  {
+    "id": "series-english-yingyutu-beige",
+    "title": "英语兔语法·北歌版",
+    "description": "英语兔B站语法系列（北歌版，六年级预初），系统讲解英语语法全体系",
+    "subjectId": "english",
+    "gradeId": "g6s",
+    "coverBvid": "BV1XY411J7aG",
+    "authorName": "英语兔",
+    "videoIds": [
+      "v073",
+      "v074",
+      "v075",
+      "v076",
+      "v077",
+      "v078",
+      "v079",
+      "v080",
+      "v081",
+      "v082",
+      "v083",
+      "v084",
+      "v085",
+      "v086",
+      "v087",
+      "v088",
+      "v089",
+      "v090",
+      "v091",
+      "v092",
+      "v093",
+      "v094",
+      "v095",
+      "v096",
+      "v097",
+      "v098",
+      "v099",
+      "v100",
+      "v101"
+    ],
+    "sortOrder": 10
   }
 ]

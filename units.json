@@ -469,19 +469,6 @@
     ]
   },
   {
-    "id": "geography-g6s-u01",
-    "subjectId": "geography",
-    "gradeId": "g6s",
-    "title": "第一单元 地球和地图",
-    "sort": 1,
-    "textbook": "沪教版六年级上",
-    "knowledgePoints": [
-      "地球的形状和大小",
-      "经纬网",
-      "地图三要素"
-    ]
-  },
-  {
     "id": "math-g6s-u01",
     "subjectId": "math",
     "gradeId": "g6s",
